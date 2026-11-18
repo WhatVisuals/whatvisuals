@@ -2,9 +2,9 @@
   <h1>🔥 WHAT VISUALS</h1>
   <p><b>Клиентский визуальный и оптимизационный мод для Minecraft Fabric (1.21.4+)</b></p>
   <p>
-    <img src="https://shields.io" alt="Telegram">
-    <img src="https://shields.io" alt="Minecraft">
-    <img src="https://shields.io" alt="Fabric">
+    <img src="https://www.t.me/WhatVisuals" alt="Telegram">
+    <img src="https://www.tiktok.com/@whatvisualss" alt="TikTok">
+    <img src="https://www.youtube.com/WhatVisuals" alt="YouTube">
   </p>
 </div>
 

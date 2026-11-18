@@ -2,6 +2,7 @@
   <h1>🔥 WHAT VISUALS</h1>
   <p><b>Клиентский визуальный и оптимизационный мод для Minecraft Fabric (1.21.4+)</b></p>
   </p>
+  Наш Telegram: https://t.me/WhatVisuals
   </p>
 </div>
 

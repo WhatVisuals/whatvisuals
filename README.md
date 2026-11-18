@@ -1,0 +1,27 @@
+<div align="center">
+  <h1>🔥 WHAT VISUALS</h1>
+  <p><b>Клиентский визуальный и оптимизационный мод для Minecraft Fabric (1.21.4+)</b></p>
+  <p>
+    <img src="https://shields.io" alt="Telegram">
+    <img src="https://shields.io" alt="Minecraft">
+    <img src="https://shields.io" alt="Fabric">
+  </p>
+</div>
+
+---
+
+### 🚀 Основные возможности / Key Features
+
+* **Clean Main Menu** — обновленное, стильное главное меню Minecraft без лишних системных рамок.
+* **In-Game Nickname Changer** — мгновенная смена игрового никнейма прямо в клиенте без перезапуска игры.
+* **FontMorph** — автоматическая плавная смена шрифта логотипа **What Visuals** каждые несколько секунд.
+* **ColorShift** — настройка цветов логотипа, переименование пресетов и эксклюзивный кислотно-зеленый стиль **☣ Venom Toxis**.
+* **FPSBooster** — встроенная оптимизация кадров (+20–50 FPS на игровых ПК и до +200–300 FPS на слабых ПК и ноутбуках).
+
+---
+
+### 📦 Установка / Installation
+
+1. Установите **Fabric Loader** и **Fabric API** для вашей версии Minecraft.
+2. Скачайте актуальный `.jar` файл во вкладке **Releases** справа.
+3. Переместите файл в папку `.minecraft/mods` и запустите игру.
